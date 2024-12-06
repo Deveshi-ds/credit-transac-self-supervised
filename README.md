@@ -56,8 +56,3 @@ The project utilizes a financial transactions dataset, with features such as tra
 ## Contributing  
 Contributions are welcome! Please feel free to submit a pull request or raise an issue for any bugs or feature enhancements.  
 
-## License  
-This project is licensed under the MIT License. See the `LICENSE` file for details.  
-
-## Contact  
-For further queries, contact **Deveshi Verma** at [deveshi.229309008@muj.manipal.edu](mailto:deveshi.229309008@muj.manipal.edu).  
